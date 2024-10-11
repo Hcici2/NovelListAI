@@ -1,44 +1,44 @@
 {
-     "产品":{"Product"   “产品”: {
-       “name”： “脚本工艺”，"name"   “名称”: "AI Creative Design"   “ScriptCraft”,
-    "solgan"   “巴掌”: "创意到剧本，AI全程助力。"
+     "产品":{"Product"   “产品”   “产品”: {
+       “name”： “脚本工艺”，"name"   “名称”   “名称”: "AI Creative Design"   “AI创意设计”   “AI Creative Design”,
+    "solgan"   “巴掌”   “巴掌”: "创意到剧本，AI全程助力。"
      }，},
-  "LandingPage"   “LandingPage”: {
-       "指数":{"Index"   “指数”: {
-         “标题”:“ScriptCraft”"title"   “标题”: "ScriptCraft"   “ScriptCraft”
+  “LandingPage” “LandingPage”： {"LandingPage"   “LandingPage”   “LandingPage”: {
+       "指数":{"Index"   “指数”   “指数”: {
+         “标题”:“ScriptCraft”"title"   “标题”   “标题”: "ScriptCraft"   “ScriptCraft”   “ScriptCraft”
        }，},
-       "英雄":{"Hero"   “英雄”: {
-      "title"   “标题”: "AI终极剧本创作工作平台",
-      "description"   “描述”: "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
-      "cta"   “cta”: "开始使用"
+       "英雄":{"Hero"   “英雄”   “英雄”: {
+      "title"   “标题”   “标题”: "AI终极剧本创作工作平台",
+      "description"   “描述”   “描述”: "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "cta"   “cta”   “cta”: "开始使用"
        }，},
-       “功能”:{"Features"   “特征”: {
-      "title"   “标题”: "主要功能",
-      "characterProfile"   “characterProfile”: {
-        "title"   “标题”: "角色档案生成器",
-        "description"   “描述”: "轻松创建详细的角色档案。"
+       “功能”:{"Features"   “特征”   “特征”: {
+      "title"   “标题”   “标题”: "主要功能",
+      “characterProfile” “characterProfile”： {"characterProfile"   “characterProfile”   “characterProfile”: {
+        "title"   “标题”   “标题”: "角色档案生成器",
+        "description"   “描述”   “描述”: "轻松创建详细的角色档案。"
          }，},
-      "storyStructure"   “storyStructure”: {
-        "title"   “标题”: "故事结构",
-        "description"   “描述”: "使用强大的结构工具组织您的故事。"
+      “storyStructure”： {"storyStructure"   “storyStructure”   “storyStructure”: {
+        "title"   “标题”   “标题”: "故事结构",
+        "description"   “描述”   “描述”: "使用强大的结构工具组织您的故事。"
          }，},
-         “sceneEditor”:"sceneEditor"   “sceneEditor”: {
-        "title"   “标题”: "场景编辑器",
-        "description"   “描述”: "精准编辑和完善您的场景。"
+         “sceneEditor”:“场景编辑”:“场景编辑”:"sceneEditor"   “sceneEditor”   “sceneEditor”: {
+        "title"   “标题”   “标题”: "场景编辑器",
+        "description"   “描述”   “描述”: "精准编辑和完善您的场景。"
          }，},
-      "aiTools": {
-        "title"   “标题”: "AI辅助工具",
-        "description"   “描述”: "利用AI驱动的建议提升您的写作。"
+      "aiTools"   “aiTools”: {
+        "title"   “标题”   “标题”: "AI辅助工具",
+        "description"   “描述”   “描述”: "利用AI驱动的建议提升您的写作。"
       }
        }，},
-       “感言”:{"Testimonials"   “奖状”: {
-      "title"   “标题”: "用户评价",
-      "testimonial1"   “testimonial1”: {
+       “感言”:{"Testimonials"   “奖状”   “奖状”: {
+      "title"   “标题”   “标题”: "用户评价",
+      " trusteal1 "   “testimonial1” " trusteal1 ": {"testimonial1"   “testimonial1”   “testimonial1”: {
            "name"   “名称”: "Sarah Johnson"   “莎拉·约翰逊”，"name"   “名称”: "Sarah Johnson",
         "role"   “角色”: "编剧",
         "content"   “内容”: "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
          }，},
-      "testimonial2"   “testimonial2”: {
+      "testimonial2"   “testimonial2”: {" trusteal2 " " trusteal2 ": {
            “name”： “Michael Lee”，"name"   “名称”: "Michael Lee"   “迈克尔·李”,
         "role"   “角色”: "电影导演",
         "content"   “内容”: "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
